@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-const todol = () => {
+const todoli = () => {
   all = [];
   const add = (todoItem) => {
     all.push(todoItem);
@@ -51,5 +51,5 @@ const todol = () => {
   };
 };
 
-module.exports = todol;
+module.exports = todoli;
 
